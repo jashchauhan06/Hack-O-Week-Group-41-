@@ -1,4 +1,3 @@
-//https://www.tinkercad.com/things/4dr3IUOXYAQ-forklift-safety-alert-system?sharecode=WvywIcRR0MNxFQlJYq3CS5BTR9KKuY2ZlFzXp0V57FE
 #include<avr/io.h>
 #include<avr/interrupt.h>
 #include<util/delay.h>
